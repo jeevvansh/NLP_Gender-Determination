@@ -5,3 +5,4 @@ Libraries used: NLTK
 
 Using 1000 Names Datatset from NLTK
 
+You can choose to download either the python(.py) or jupyter notebook file(.ipynb)
